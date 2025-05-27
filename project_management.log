@@ -1,0 +1,1730 @@
+2025-05-22 15:45:01,700 - INFO - Database initialized successfully
+2025-05-22 15:45:01,785 - INFO - Retrieved 0 projects, sorted by name
+2025-05-22 15:45:22,861 - INFO - Retrieved 0 projects, sorted by name
+2025-05-22 15:45:27,566 - INFO - Selected project ID: None
+2025-05-22 15:45:37,023 - INFO - Menu visibility toggled to: False
+2025-05-22 15:45:38,830 - INFO - Menu visibility toggled to: True
+2025-05-22 15:45:45,055 - INFO - Clicked People menu item
+2025-05-22 15:45:50,785 - INFO - Clicked Dashboard menu item
+2025-05-22 15:45:56,452 - ERROR - No project selected. Please select a project first.
+2025-05-22 15:46:03,399 - ERROR - No project selected. Please select a project first.
+2025-05-22 15:46:05,948 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 12:56:44,127 - INFO - Database initialized successfully
+2025-05-23 12:58:10,424 - INFO - Database initialized successfully
+2025-05-23 13:03:03,566 - INFO - Database initialized successfully
+2025-05-23 13:08:38,122 - INFO - Database initialized successfully
+2025-05-23 13:09:21,248 - INFO - Database initialized successfully
+2025-05-23 13:09:33,929 - INFO - Database initialized successfully
+2025-05-23 13:21:17,945 - INFO - Database initialized successfully
+2025-05-23 13:21:50,526 - INFO - Database initialized successfully
+2025-05-23 13:22:19,734 - INFO - Database initialized successfully
+2025-05-23 13:27:00,624 - INFO - Database initialized successfully
+2025-05-23 13:27:01,102 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 13:27:10,844 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 13:49:26,338 - INFO - Database initialized successfully
+2025-05-23 13:49:27,272 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 13:49:54,287 - INFO - Added person: Person(id=1, name='Sareh', email='karimi.sareh@yahoo.com')
+2025-05-23 13:49:54,289 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 13:49:54,290 - INFO - Refreshed people table
+2025-05-23 13:49:54,290 - INFO - Created person: Sareh
+2025-05-23 13:50:09,549 - INFO - Menu visibility toggled to: False
+2025-05-23 13:50:11,116 - INFO - Menu visibility toggled to: True
+2025-05-23 14:22:27,027 - INFO - Database initialized successfully
+2025-05-23 14:22:27,909 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:22:33,624 - INFO - Menu visibility toggled to: True
+2025-05-23 14:23:19,431 - ERROR - Error creating project: Invalid date format: Design-task. Use YYYY-MM-DD
+2025-05-23 14:23:29,494 - INFO - Menu visibility toggled to: False
+2025-05-23 14:23:30,940 - INFO - Menu visibility toggled to: True
+2025-05-23 14:23:33,084 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:23:59,935 - ERROR - Error creating project: Invalid date format: trest. Use YYYY-MM-DD
+2025-05-23 14:24:41,182 - ERROR - Error creating project: Invalid date format: test. Use YYYY-MM-DD
+2025-05-23 14:26:27,611 - INFO - Menu visibility toggled to: False
+2025-05-23 14:26:29,061 - INFO - Menu visibility toggled to: True
+2025-05-23 14:27:44,879 - INFO - Database initialized successfully
+2025-05-23 14:27:44,951 - INFO - Database initialized successfully
+2025-05-23 14:28:00,204 - INFO - Database initialized successfully
+2025-05-23 14:28:08,803 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:28:38,324 - INFO - Database initialized successfully
+2025-05-23 14:28:38,930 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:28:49,434 - INFO - Menu visibility toggled to: True
+2025-05-23 14:29:13,930 - ERROR - Error creating project: Invalid date format: test. Use YYYY-MM-DD
+2025-05-23 14:29:20,334 - INFO - Database initialized successfully
+2025-05-23 14:29:20,825 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:29:24,988 - INFO - Menu visibility toggled to: True
+2025-05-23 14:31:41,573 - INFO - Database initialized successfully
+2025-05-23 14:31:42,230 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:31:46,199 - INFO - Menu visibility toggled to: True
+2025-05-23 14:36:12,063 - INFO - Database initialized successfully
+2025-05-23 14:36:13,158 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:36:18,941 - INFO - Menu visibility toggled to: True
+2025-05-23 14:40:08,050 - INFO - Database initialized successfully
+2025-05-23 14:40:08,748 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 14:40:13,879 - INFO - Menu visibility toggled to: True
+2025-05-23 14:41:54,063 - INFO - Added project: Project(id=1, name='test', description='desc', start_date='2025-05-21', end_date='2025-05-30')
+2025-05-23 14:46:12,716 - INFO - Database initialized successfully
+2025-05-23 14:46:13,412 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 14:46:13,422 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 14:46:13,423 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 14:46:13,424 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 14:46:13,424 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 14:46:13,425 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 14:46:13,431 - INFO - Refreshed people table
+2025-05-23 14:46:13,431 - INFO - Loaded project ID: 1
+2025-05-23 14:46:27,828 - INFO - Menu visibility toggled to: True
+2025-05-23 14:46:32,585 - INFO - Menu visibility toggled to: False
+2025-05-23 14:46:53,668 - INFO - Retrieved person: Person(id=1, name='Sareh', email='karimi.sareh@yahoo.com')
+2025-05-23 14:48:31,541 - INFO - Database initialized successfully
+2025-05-23 14:48:32,247 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 14:48:32,253 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 14:48:32,253 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 14:48:32,253 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 14:48:32,253 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 14:48:32,254 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 14:48:32,255 - INFO - Refreshed people table
+2025-05-23 14:48:32,255 - INFO - Loaded project ID: 1
+2025-05-23 14:48:53,816 - INFO - Added person: Person(id=2, name='Mary', email='mary@gmail.com')
+2025-05-23 14:48:53,821 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 14:48:53,821 - INFO - Refreshed people table
+2025-05-23 14:48:53,822 - INFO - Created person: Mary
+2025-05-23 14:49:00,082 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com')
+2025-05-23 14:53:57,607 - INFO - Database initialized successfully
+2025-05-23 14:53:58,282 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 14:53:58,288 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 14:53:58,288 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 14:53:58,288 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 14:53:58,290 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 14:53:58,290 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 14:54:02,492 - INFO - Loaded project ID: 1
+2025-05-23 14:56:39,126 - INFO - Database initialized successfully
+2025-05-23 14:56:39,743 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 14:56:39,748 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 14:56:39,748 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 14:56:39,748 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 14:56:39,748 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 14:56:39,748 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 14:56:43,813 - INFO - Loaded project ID: 1
+2025-05-23 14:59:56,208 - INFO - Database initialized successfully
+2025-05-23 15:00:01,545 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:00:03,419 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:00:03,419 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:00:04,580 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:00:04,580 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:00:05,074 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 15:00:35,426 - INFO - Database initialized successfully
+2025-05-23 15:00:36,151 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:00:36,155 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:00:36,155 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:00:36,156 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:00:36,156 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:00:36,156 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 15:00:38,033 - INFO - Loaded project ID: 1
+2025-05-23 15:00:46,914 - INFO - Database initialized successfully
+2025-05-23 15:00:47,464 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:00:47,469 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:00:47,469 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:00:47,469 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:00:47,469 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:00:47,470 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 15:00:48,880 - INFO - Loaded project ID: 1
+2025-05-23 15:00:58,492 - INFO - Database initialized successfully
+2025-05-23 15:00:59,107 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:00:59,111 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:00:59,111 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:00:59,111 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:00:59,111 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:00:59,112 - ERROR - Error refreshing people: tuple index out of range
+2025-05-23 15:01:02,148 - INFO - Loaded project ID: 1
+2025-05-23 15:14:28,679 - INFO - Database initialized successfully
+2025-05-23 15:15:16,899 - INFO - Retrieved 0 projects, sorted by name
+2025-05-23 15:15:37,791 - INFO - Menu visibility toggled to: True
+2025-05-23 15:16:38,594 - INFO - Added project: Project(id=1, name='Project_1', description='QT-Designer', start_date='2025-05-21', end_date='2025-05-30')
+2025-05-23 15:16:38,601 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:16:38,611 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:16:38,611 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:16:38,613 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:16:38,614 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:16:38,617 - INFO - Retrieved 0 persons, sorted by name
+2025-05-23 15:16:38,617 - INFO - Refreshed people table
+2025-05-23 15:16:38,618 - INFO - Loaded project ID: 1
+2025-05-23 15:16:38,618 - INFO - Created project: Project_1
+2025-05-23 15:16:49,332 - INFO - Retrieved 0 persons, sorted by name
+2025-05-23 15:16:49,335 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:17:32,980 - ERROR - Error creating task: Title, Status, Priority, Start Date, Due Date, and Assigned Person are required
+2025-05-23 15:20:10,309 - INFO - Database initialized successfully
+2025-05-23 15:20:14,228 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:20:14,235 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:20:14,235 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:20:14,237 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:20:14,237 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:20:14,238 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:20:14,242 - INFO - Refreshed people table
+2025-05-23 15:20:14,243 - INFO - Loaded project ID: 1
+2025-05-23 15:20:33,689 - ERROR - Please select a person to update.
+2025-05-23 15:20:38,021 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role=None)
+2025-05-23 15:20:45,835 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role=None)
+2025-05-23 15:20:45,850 - INFO - Updated person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:20:45,856 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:20:45,857 - INFO - Refreshed people table
+2025-05-23 15:20:45,858 - INFO - Updated person ID: 1
+2025-05-23 15:20:48,168 - ERROR - Please select a person to update.
+2025-05-23 15:20:52,497 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:20:54,029 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:20:54,043 - INFO - Updated person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:20:54,046 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:20:54,046 - INFO - Refreshed people table
+2025-05-23 15:20:54,046 - INFO - Updated person ID: 1
+2025-05-23 15:21:18,329 - ERROR - Error creating person: 2 values for 3 columns
+2025-05-23 15:25:22,308 - INFO - Database initialized successfully
+2025-05-23 15:25:22,806 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:25:22,812 - INFO - Retrieved 0 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:25:22,812 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:25:22,812 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:25:22,813 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:25:22,813 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:25:22,814 - INFO - Refreshed people table
+2025-05-23 15:25:22,814 - INFO - Loaded project ID: 1
+2025-05-23 15:25:48,429 - INFO - Added person: Person(id=2, name='Sareh', email='sareh@gamil.com', role='Backend Developer')
+2025-05-23 15:25:48,436 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:25:48,437 - INFO - Refreshed people table
+2025-05-23 15:25:48,437 - INFO - Created person: Sareh
+2025-05-23 15:26:06,987 - INFO - Menu visibility toggled to: True
+2025-05-23 15:26:15,937 - ERROR - Please select a person to update.
+2025-05-23 15:26:19,665 - INFO - Retrieved person: Person(id=2, name='Sareh', email='sareh@gamil.com', role='Backend Developer')
+2025-05-23 15:26:24,998 - INFO - Retrieved person: Person(id=2, name='Sareh', email='sareh@gamil.com', role='Backend Developer')
+2025-05-23 15:26:25,007 - INFO - Updated person: Person(id=2, name='Sareh', email='sareh@gamil.com', role='Python Developer')
+2025-05-23 15:26:25,011 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:26:25,012 - INFO - Refreshed people table
+2025-05-23 15:26:25,012 - INFO - Updated person ID: 2
+2025-05-23 15:26:28,762 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:26:33,921 - INFO - Deleted person with id 2
+2025-05-23 15:26:33,927 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:33,927 - INFO - Refreshed people table
+2025-05-23 15:26:33,928 - INFO - Deleted person ID: 2
+2025-05-23 15:26:37,943 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:37,943 - INFO - Refreshed people table
+2025-05-23 15:26:38,099 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:38,099 - INFO - Refreshed people table
+2025-05-23 15:26:38,729 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:38,729 - INFO - Refreshed people table
+2025-05-23 15:26:40,160 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:40,160 - INFO - Refreshed people table
+2025-05-23 15:26:40,385 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:40,385 - INFO - Refreshed people table
+2025-05-23 15:26:40,529 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:40,529 - INFO - Refreshed people table
+2025-05-23 15:26:42,570 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:42,574 - INFO - Refreshed people table
+2025-05-23 15:26:42,813 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:42,814 - INFO - Refreshed people table
+2025-05-23 15:26:43,943 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:43,943 - INFO - Refreshed people table
+2025-05-23 15:26:44,164 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:44,164 - INFO - Refreshed people table
+2025-05-23 15:26:47,669 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:47,670 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:47,848 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:47,849 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:49,219 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:49,219 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:49,795 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:49,795 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:50,238 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:50,238 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:50,263 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:26:50,263 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:26:54,551 - INFO - Retrieved 1 persons, sorted by name
+2025-05-23 15:26:54,557 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:27:20,398 - INFO - Added task: Task(id=1, title='Sketch design', description='', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:27:20,400 - INFO - Retrieved 1 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:27:20,400 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:27:20,400 - INFO - Created task: Sketch design
+2025-05-23 15:28:12,432 - INFO - Added person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:28:12,437 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:28:12,437 - INFO - Refreshed people table
+2025-05-23 15:28:12,438 - INFO - Created person: Wolfgang
+2025-05-23 15:28:17,099 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:28:17,101 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:28:56,123 - ERROR - Error creating task: Title, Status, Priority, Start Date, Due Date, and Assigned Person are required
+2025-05-23 15:29:05,466 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:29:05,468 - INFO - Retrieved 0 milestones for project 1
+2025-05-23 15:29:41,323 - INFO - Added task: Task(id=2, title='Dashboard page', description='implement it', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=3, project_id=1, milestone_id=None)
+2025-05-23 15:29:41,326 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:29:41,327 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:29:41,327 - INFO - Created task: Dashboard page
+2025-05-23 15:30:17,359 - INFO - Added milestone: Milestone(id=1, name='phase-develope pages and forms', project_id=1)
+2025-05-23 15:30:17,364 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:30:17,364 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:30:17,364 - INFO - Created milestone: phase-develope pages and forms
+2025-05-23 15:30:20,516 - INFO - Retrieved milestone: Milestone(id=1, name='phase-develope pages and forms', project_id=1)
+2025-05-23 15:30:26,012 - INFO - Retrieved milestone: Milestone(id=1, name='phase-develope pages and forms', project_id=1)
+2025-05-23 15:30:26,021 - INFO - Updated milestone: Milestone(id=1, name='phase1-develope pages and forms', project_id=1)
+2025-05-23 15:30:26,023 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:30:26,024 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:30:26,024 - INFO - Updated milestone ID: 1
+2025-05-23 15:30:33,139 - INFO - Retrieved task: Task(id=2, title='Dashboard page', description='implement it', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=3, project_id=1, milestone_id=None)
+2025-05-23 15:30:33,146 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:30:33,149 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:30:33,152 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:30:40,120 - INFO - Retrieved task: Task(id=2, title='Dashboard page', description='implement it', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=3, project_id=1, milestone_id=None)
+2025-05-23 15:30:40,136 - INFO - Updated task: Task(id=2, title='Dashboard page', description='implement it', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=3, project_id=1, milestone_id=1)
+2025-05-23 15:30:40,138 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:40,139 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:40,139 - INFO - Updated task ID: 2
+2025-05-23 15:30:50,969 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:50,969 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:51,242 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:51,243 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:51,469 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:51,469 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:52,573 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:52,574 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:52,834 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:52,835 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:53,057 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:53,058 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:53,760 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:53,760 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:53,969 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:53,969 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:54,820 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:54,821 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:55,107 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:55,108 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:56,355 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:56,356 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:56,538 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:56,538 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:57,790 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:57,791 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:30:58,055 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:30:58,055 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:31:24,416 - INFO - Retrieved 2 persons, sorted by name
+2025-05-23 15:31:24,416 - INFO - Refreshed people table
+2025-05-23 15:31:24,419 - INFO - Clicked People menu item
+2025-05-23 15:32:03,227 - INFO - Added person: Person(id=4, name='Azra', email='azra@yahoo.com', role='Python developer')
+2025-05-23 15:32:03,230 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:32:03,230 - INFO - Refreshed people table
+2025-05-23 15:32:03,230 - INFO - Created person: Azra
+2025-05-23 15:32:13,913 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:32:17,778 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:32:17,778 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:32:17,778 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:32:17,779 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:32:17,779 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:32:17,779 - INFO - Refreshed people table
+2025-05-23 15:32:17,779 - INFO - Selected project ID: 1
+2025-05-23 15:32:19,235 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:34:54,582 - INFO - Database initialized successfully
+2025-05-23 15:34:55,514 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:34:55,519 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:34:55,520 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:34:55,520 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:34:55,521 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:34:55,521 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:34:55,521 - INFO - Refreshed people table
+2025-05-23 15:34:55,521 - INFO - Loaded project ID: 1
+2025-05-23 15:38:40,078 - INFO - Database initialized successfully
+2025-05-23 15:38:41,145 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:38:41,149 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:39:07,549 - INFO - Database initialized successfully
+2025-05-23 15:39:08,204 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:39:08,210 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:41:53,426 - INFO - Database initialized successfully
+2025-05-23 15:41:53,950 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:41:53,954 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:41:53,960 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:41:53,962 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:41:53,962 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:41:53,963 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:41:53,963 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:41:53,964 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:41:53,964 - INFO - Refreshed people table
+2025-05-23 15:41:53,964 - INFO - Loaded project ID: 1
+2025-05-23 15:42:01,129 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:42:01,131 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:42:25,691 - INFO - Database initialized successfully
+2025-05-23 15:42:26,187 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:42:26,191 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:42:26,191 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:42:26,193 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:42:26,193 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:42:26,193 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:42:26,193 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:42:26,194 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:42:26,194 - INFO - Refreshed people table
+2025-05-23 15:42:26,194 - INFO - Loaded project ID: 1
+2025-05-23 15:42:59,278 - INFO - Database initialized successfully
+2025-05-23 15:42:59,852 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:42:59,859 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:42:59,859 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:42:59,860 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:42:59,860 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:42:59,861 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:42:59,861 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:42:59,861 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:42:59,861 - INFO - Refreshed people table
+2025-05-23 15:42:59,861 - INFO - Loaded project ID: 1
+2025-05-23 15:44:54,855 - INFO - Database initialized successfully
+2025-05-23 15:44:55,393 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:44:55,537 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:44:55,538 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:44:55,543 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:44:55,544 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:44:55,545 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:44:55,546 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:44:55,547 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:44:55,547 - INFO - Refreshed people table
+2025-05-23 15:44:55,547 - INFO - Loaded project ID: 1
+2025-05-23 15:47:14,320 - INFO - Database initialized successfully
+2025-05-23 15:47:15,115 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:47:15,124 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:47:15,125 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:47:15,127 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:47:15,127 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:47:15,128 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:47:15,129 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:47:15,129 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:47:15,129 - INFO - Refreshed people table
+2025-05-23 15:47:15,129 - INFO - Loaded project ID: 1
+2025-05-23 15:48:41,427 - INFO - Database initialized successfully
+2025-05-23 15:48:42,161 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:48:42,166 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:48:42,167 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:48:42,168 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:48:42,169 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:48:42,169 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:48:42,170 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:48:42,170 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:48:42,171 - INFO - Refreshed people table
+2025-05-23 15:48:42,171 - INFO - Loaded project ID: 1
+2025-05-23 15:54:17,157 - INFO - Database initialized successfully
+2025-05-23 15:54:18,311 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:54:18,316 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:54:18,317 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:54:18,318 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:54:18,319 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:54:18,320 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:54:18,320 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:54:18,321 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:54:18,321 - INFO - Refreshed people table
+2025-05-23 15:54:18,321 - INFO - Loaded project ID: 1
+2025-05-23 15:54:23,523 - INFO - Retrieved task: Task(id=1, title='Sketch design', description='', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:23,542 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:54:23,546 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:54:23,548 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:54:48,384 - INFO - Retrieved task: Task(id=1, title='Sketch design', description='', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:48,409 - INFO - Updated task: Task(id=1, title='Sketch design', description='sketchs of all pages', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:48,411 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:54:48,412 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:54:48,413 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:54:48,413 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:54:48,413 - INFO - Updated task ID: 1
+2025-05-23 15:54:51,900 - INFO - Retrieved task: Task(id=1, title='Sketch design', description='sketchs of all pages', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:51,905 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:54:51,907 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:54:51,912 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:54:53,432 - INFO - Retrieved task: Task(id=1, title='Sketch design', description='sketchs of all pages', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:53,437 - INFO - Updated task: Task(id=1, title='Sketch design', description='sketchs of all pages', status='ToDo', priority='High', start_date='2025-05-21', due_date='2025-05-25', person_id=1, project_id=1, milestone_id=None)
+2025-05-23 15:54:53,439 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:54:53,442 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:54:53,444 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:54:53,445 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:54:53,445 - INFO - Updated task ID: 1
+2025-05-23 15:55:46,056 - INFO - Database initialized successfully
+2025-05-23 15:55:46,759 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 15:55:46,766 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 15:55:46,767 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:55:46,769 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 15:55:46,770 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 15:55:46,771 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 15:55:46,771 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 15:55:46,773 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:46,774 - INFO - Refreshed people table
+2025-05-23 15:55:46,774 - INFO - Loaded project ID: 1
+2025-05-23 15:55:53,604 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 15:55:57,806 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:57,807 - INFO - Refreshed people table
+2025-05-23 15:55:57,969 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:57,969 - INFO - Refreshed people table
+2025-05-23 15:55:58,208 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:58,209 - INFO - Refreshed people table
+2025-05-23 15:55:58,863 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:58,864 - INFO - Refreshed people table
+2025-05-23 15:55:59,104 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:59,105 - INFO - Refreshed people table
+2025-05-23 15:55:59,263 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:59,263 - INFO - Refreshed people table
+2025-05-23 15:55:59,955 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:55:59,955 - INFO - Refreshed people table
+2025-05-23 15:56:00,156 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:00,157 - INFO - Refreshed people table
+2025-05-23 15:56:00,978 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:00,979 - INFO - Refreshed people table
+2025-05-23 15:56:01,207 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:01,207 - INFO - Refreshed people table
+2025-05-23 15:56:02,159 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:02,159 - INFO - Refreshed people table
+2025-05-23 15:56:02,724 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:02,725 - INFO - Refreshed people table
+2025-05-23 15:56:03,955 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:03,955 - INFO - Refreshed people table
+2025-05-23 15:56:07,212 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:07,213 - INFO - Refreshed people table
+2025-05-23 15:56:07,901 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:07,903 - INFO - Refreshed people table
+2025-05-23 15:56:08,134 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 15:56:08,135 - INFO - Refreshed people table
+2025-05-23 15:56:13,357 - INFO - Menu visibility toggled to: True
+2025-05-23 15:56:31,153 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:04:18,169 - INFO - Database initialized successfully
+2025-05-23 16:04:19,169 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:04:19,173 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:04:19,174 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:04:19,175 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:04:19,175 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:04:19,177 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:04:19,177 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:04:19,177 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:04:19,178 - INFO - Refreshed people table
+2025-05-23 16:04:19,178 - INFO - Loaded project ID: 1
+2025-05-23 16:04:25,369 - INFO - Menu visibility toggled to: False
+2025-05-23 16:04:26,735 - INFO - Menu visibility toggled to: True
+2025-05-23 16:04:49,479 - INFO - Database initialized successfully
+2025-05-23 16:04:50,175 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:04:50,178 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:04:50,179 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:04:50,180 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:04:50,180 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:04:50,180 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:04:50,180 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:04:50,181 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:04:50,182 - INFO - Refreshed people table
+2025-05-23 16:04:50,182 - INFO - Loaded project ID: 1
+2025-05-23 16:05:02,058 - INFO - Database initialized successfully
+2025-05-23 16:05:02,773 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:05:02,781 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:05:02,781 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:05:02,783 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:05:02,783 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:05:02,784 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:05:02,784 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:05:02,785 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:05:02,786 - INFO - Refreshed people table
+2025-05-23 16:05:02,786 - INFO - Loaded project ID: 1
+2025-05-23 16:05:05,543 - INFO - Menu visibility toggled to: True
+2025-05-23 16:11:06,996 - INFO - Database initialized successfully
+2025-05-23 16:11:07,729 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:11:07,736 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:11:07,736 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:11:07,738 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:11:07,738 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:11:07,739 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:11:07,739 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:11:07,741 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:11:07,741 - INFO - Refreshed people table
+2025-05-23 16:11:07,742 - INFO - Loaded project ID: 1
+2025-05-23 16:11:36,698 - INFO - Database initialized successfully
+2025-05-23 16:11:37,337 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:11:37,356 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:11:37,358 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:11:37,361 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:11:37,361 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:11:37,363 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:11:37,364 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:11:37,364 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:11:37,365 - INFO - Refreshed people table
+2025-05-23 16:11:37,365 - INFO - Loaded project ID: 1
+2025-05-23 16:11:44,906 - INFO - Menu visibility toggled to: False
+2025-05-23 16:11:46,443 - INFO - Menu visibility toggled to: True
+2025-05-23 16:13:53,049 - INFO - Database initialized successfully
+2025-05-23 16:13:53,663 - INFO - Retrieved 1 projects, sorted by name
+2025-05-23 16:13:53,667 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-23 16:13:53,668 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-23 16:13:53,669 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-23 16:13:53,669 - INFO - Refreshed tasks table for project ID: 1
+2025-05-23 16:13:53,669 - INFO - Retrieved 1 milestones for project 1
+2025-05-23 16:13:53,670 - INFO - Refreshed milestones table for project ID: 1
+2025-05-23 16:13:53,670 - INFO - Retrieved 3 persons, sorted by name
+2025-05-23 16:13:53,670 - INFO - Refreshed people table
+2025-05-23 16:13:53,670 - INFO - Loaded project ID: 1
+2025-05-23 16:14:02,164 - INFO - Retrieved 1 projects, sorted by name
+2025-05-24 00:19:54,531 - INFO - Database initialized successfully
+2025-05-24 00:19:55,853 - INFO - Retrieved 1 projects, sorted by name
+2025-05-24 00:19:55,857 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-24 00:19:55,859 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-24 00:19:55,863 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-24 00:19:55,863 - INFO - Refreshed tasks table for project ID: 1
+2025-05-24 00:19:55,864 - INFO - Retrieved 1 milestones for project 1
+2025-05-24 00:19:55,864 - INFO - Refreshed milestones table for project ID: 1
+2025-05-24 00:19:55,864 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 00:19:55,864 - INFO - Refreshed people table
+2025-05-24 00:19:55,864 - INFO - Loaded project ID: 1
+2025-05-24 00:20:41,712 - INFO - Database initialized successfully
+2025-05-24 00:20:42,214 - INFO - Retrieved 1 projects, sorted by name
+2025-05-24 00:20:42,217 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-24 00:20:42,218 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-24 00:20:42,219 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-24 00:20:42,219 - INFO - Refreshed tasks table for project ID: 1
+2025-05-24 00:20:42,219 - INFO - Retrieved 1 milestones for project 1
+2025-05-24 00:20:42,219 - INFO - Refreshed milestones table for project ID: 1
+2025-05-24 00:20:42,220 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 00:20:42,220 - INFO - Refreshed people table
+2025-05-24 00:20:42,220 - INFO - Loaded project ID: 1
+2025-05-24 00:22:12,696 - INFO - Database initialized successfully
+2025-05-24 00:24:00,157 - INFO - Database initialized successfully
+2025-05-24 00:24:00,722 - INFO - Retrieved 1 projects, sorted by name
+2025-05-24 00:24:00,728 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-24 00:24:00,730 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-24 00:24:00,734 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-24 00:24:00,734 - INFO - Refreshed tasks table for project ID: 1
+2025-05-24 00:24:00,734 - INFO - Retrieved 1 milestones for project 1
+2025-05-24 00:24:00,735 - INFO - Refreshed milestones table for project ID: 1
+2025-05-24 00:24:00,735 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 00:24:00,735 - INFO - Refreshed people table
+2025-05-24 00:24:00,735 - INFO - Loaded project ID: 1
+2025-05-24 00:24:35,391 - INFO - Database initialized successfully
+2025-05-24 00:24:36,106 - INFO - Retrieved 1 projects, sorted by name
+2025-05-24 00:24:36,150 - INFO - Retrieved 2 tasks for project 1, status=None, priority=None, sorted by due_date
+2025-05-24 00:24:36,156 - INFO - Retrieved person: Person(id=1, name='Pegah', email='pegah@yahoo.com', role='UI Designer')
+2025-05-24 00:24:36,166 - INFO - Retrieved person: Person(id=3, name='Wolfgang', email='wolfgang@yahoo.com', role='React Developer')
+2025-05-24 00:24:36,169 - INFO - Refreshed tasks table for project ID: 1
+2025-05-24 00:24:36,170 - INFO - Retrieved 1 milestones for project 1
+2025-05-24 00:24:36,171 - INFO - Refreshed milestones table for project ID: 1
+2025-05-24 00:24:36,172 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 00:24:36,172 - INFO - Refreshed people table
+2025-05-24 00:24:36,172 - INFO - Loaded project ID: 1
+2025-05-24 00:25:11,184 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 00:25:11,188 - INFO - Retrieved 1 milestones for project 1
+2025-05-24 00:51:26,741 - INFO - Database initialized successfully
+2025-05-24 00:54:05,425 - INFO - Database initialized successfully
+2025-05-24 00:54:08,464 - INFO - Retrieved 0 tasks, sorted by title
+2025-05-24 00:54:08,465 - INFO - Refreshed tasks table
+2025-05-24 00:55:05,508 - INFO - Database initialized successfully
+2025-05-24 00:59:52,756 - INFO - Database initialized successfully
+2025-05-24 00:59:53,282 - INFO - Retrieved 0 tasks, sorted by title
+2025-05-24 00:59:53,282 - INFO - Refreshed tasks table
+2025-05-24 00:59:53,283 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 00:59:53,283 - INFO - Refreshed milestones table
+2025-05-24 00:59:53,283 - INFO - Retrieved 0 persons, sorted by name
+2025-05-24 00:59:53,283 - INFO - Refreshed people table
+2025-05-24 00:59:53,283 - INFO - Loaded Tasks
+2025-05-24 00:59:59,534 - INFO - Retrieved 0 tasks, sorted by title
+2025-05-24 00:59:59,534 - INFO - Refreshed tasks table
+2025-05-24 00:59:59,582 - INFO - Retrieved 0 tasks, sorted by title
+2025-05-24 00:59:59,582 - INFO - Refreshed tasks table
+2025-05-24 00:59:59,779 - INFO - Retrieved 0 tasks, sorted by title
+2025-05-24 00:59:59,779 - INFO - Refreshed tasks table
+2025-05-24 01:00:08,898 - INFO - Retrieved 0 persons, sorted by name
+2025-05-24 01:00:08,900 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:00:59,374 - INFO - Added person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:00:59,378 - INFO - Retrieved 1 persons, sorted by name
+2025-05-24 01:00:59,382 - INFO - Refreshed people table
+2025-05-24 01:00:59,382 - INFO - Created person: Vero
+2025-05-24 01:01:22,145 - INFO - Added person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:01:22,148 - INFO - Retrieved 2 persons, sorted by name
+2025-05-24 01:01:22,148 - INFO - Refreshed people table
+2025-05-24 01:01:22,148 - INFO - Created person: Mary
+2025-05-24 01:01:55,205 - INFO - Added person: Person(id=3, name='Max', email='max@yahoo.com', role='Backend developer')
+2025-05-24 01:01:55,208 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:01:55,209 - INFO - Refreshed people table
+2025-05-24 01:01:55,209 - INFO - Created person: Max
+2025-05-24 01:01:59,963 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:01:59,964 - INFO - Refreshed people table
+2025-05-24 01:02:00,529 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:00,530 - INFO - Refreshed people table
+2025-05-24 01:02:02,509 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:02,509 - INFO - Refreshed people table
+2025-05-24 01:02:03,384 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:03,384 - INFO - Refreshed people table
+2025-05-24 01:02:03,977 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:03,977 - INFO - Refreshed people table
+2025-05-24 01:02:04,254 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:04,255 - INFO - Refreshed people table
+2025-05-24 01:02:05,994 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:05,995 - INFO - Refreshed people table
+2025-05-24 01:02:07,246 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:07,247 - INFO - Refreshed people table
+2025-05-24 01:02:12,587 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:12,587 - INFO - Refreshed people table
+2025-05-24 01:02:12,841 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:12,842 - INFO - Refreshed people table
+2025-05-24 01:02:15,738 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:15,739 - INFO - Refreshed people table
+2025-05-24 01:02:16,086 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:16,087 - INFO - Refreshed people table
+2025-05-24 01:02:24,475 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Backend developer')
+2025-05-24 01:02:30,477 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Backend developer')
+2025-05-24 01:02:30,485 - INFO - Updated person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:30,487 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:30,487 - INFO - Refreshed people table
+2025-05-24 01:02:30,487 - INFO - Updated person ID: 3
+2025-05-24 01:02:33,618 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:37,878 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:37,884 - INFO - Updated person: Person(id=3, name='Maxim', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:37,886 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:37,886 - INFO - Refreshed people table
+2025-05-24 01:02:37,886 - INFO - Updated person ID: 3
+2025-05-24 01:02:41,818 - INFO - Retrieved person: Person(id=3, name='Maxim', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:50,111 - INFO - Retrieved person: Person(id=3, name='Maxim', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:02:50,119 - INFO - Updated person: Person(id=3, name='Max', email='max-m@yahoo.com', role='Python developer')
+2025-05-24 01:02:50,124 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:02:50,124 - INFO - Refreshed people table
+2025-05-24 01:02:50,124 - INFO - Updated person ID: 3
+2025-05-24 01:02:54,729 - INFO - Retrieved person: Person(id=3, name='Max', email='max-m@yahoo.com', role='Python developer')
+2025-05-24 01:02:59,776 - INFO - Retrieved person: Person(id=3, name='Max', email='max-m@yahoo.com', role='Python developer')
+2025-05-24 01:02:59,776 - ERROR - Error updating person: Invalid email format: maxyahoo.com
+2025-05-24 01:03:03,462 - INFO - Retrieved person: Person(id=3, name='Max', email='max-m@yahoo.com', role='Python developer')
+2025-05-24 01:03:07,064 - INFO - Retrieved person: Person(id=3, name='Max', email='max-m@yahoo.com', role='Python developer')
+2025-05-24 01:03:07,069 - INFO - Updated person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:03:07,073 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:03:07,074 - INFO - Refreshed people table
+2025-05-24 01:03:07,074 - INFO - Updated person ID: 3
+2025-05-24 01:03:19,869 - ERROR - Milestone insertion error: Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+2025-05-24 01:03:19,869 - ERROR - Error creating milestone: Milestone insertion error: Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+2025-05-24 01:03:39,846 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:03:39,851 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:04:27,516 - ERROR - Error creating task: tuple index out of range
+2025-05-24 01:06:56,134 - INFO - Database initialized successfully
+2025-05-24 01:06:56,753 - ERROR - Error refreshing tasks: tuple index out of range
+2025-05-24 01:06:59,626 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:06:59,627 - INFO - Refreshed milestones table
+2025-05-24 01:06:59,630 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:06:59,636 - INFO - Refreshed people table
+2025-05-24 01:06:59,637 - INFO - Loaded Tasks
+2025-05-24 01:07:07,134 - INFO - Database initialized successfully
+2025-05-24 01:07:09,016 - INFO - Database initialized successfully
+2025-05-24 01:07:09,512 - ERROR - Error refreshing tasks: tuple index out of range
+2025-05-24 01:07:12,232 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:07:12,233 - INFO - Refreshed milestones table
+2025-05-24 01:07:12,236 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:07:12,237 - INFO - Refreshed people table
+2025-05-24 01:07:12,237 - INFO - Loaded Tasks
+2025-05-24 01:07:16,494 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:07:16,495 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:10:37,892 - INFO - Database initialized successfully
+2025-05-24 01:10:38,386 - ERROR - Error refreshing tasks: tuple index out of range
+2025-05-24 01:10:40,739 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:10:40,742 - INFO - Refreshed milestones table
+2025-05-24 01:10:40,743 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:10:40,744 - INFO - Refreshed people table
+2025-05-24 01:10:40,744 - INFO - Loaded Tasks
+2025-05-24 01:10:47,111 - INFO - Database initialized successfully
+2025-05-24 01:10:47,575 - ERROR - Error refreshing tasks: tuple index out of range
+2025-05-24 01:10:51,573 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:10:51,574 - INFO - Refreshed milestones table
+2025-05-24 01:10:51,577 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:10:51,578 - INFO - Refreshed people table
+2025-05-24 01:10:51,578 - INFO - Loaded Tasks
+2025-05-24 01:10:54,135 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:10:54,137 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:11:09,498 - ERROR - Error creating task: tuple index out of range
+2025-05-24 01:11:55,988 - INFO - Database initialized successfully
+2025-05-24 01:11:56,521 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:11:56,522 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:11:56,523 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:11:56,523 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:11:56,523 - INFO - Refreshed tasks table
+2025-05-24 01:11:56,524 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:11:56,524 - INFO - Refreshed milestones table
+2025-05-24 01:11:56,524 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:11:56,524 - INFO - Refreshed people table
+2025-05-24 01:11:56,524 - INFO - Loaded Tasks
+2025-05-24 01:12:07,222 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:12:07,224 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:12:15,585 - INFO - Retrieved task: Task(id=3, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-24 01:12:15,593 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:12:15,594 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:12:15,595 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:12:19,921 - INFO - Retrieved task: Task(id=2, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-24 01:12:19,925 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:12:19,926 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:12:19,928 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:13:19,180 - INFO - Retrieved task: Task(id=2, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-24 01:13:19,197 - INFO - Updated task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=None)
+2025-05-24 01:13:19,199 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:13:19,199 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:13:19,200 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:13:19,200 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:13:19,201 - INFO - Refreshed tasks table
+2025-05-24 01:13:19,201 - INFO - Updated task ID: 2
+2025-05-24 01:13:25,012 - INFO - Deleted task with id 3
+2025-05-24 01:13:25,016 - INFO - Retrieved 2 tasks, sorted by title
+2025-05-24 01:13:25,016 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:13:25,017 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:13:25,017 - INFO - Refreshed tasks table
+2025-05-24 01:13:25,017 - INFO - Deleted task ID: 3
+2025-05-24 01:13:29,305 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:13:29,307 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:14:16,655 - ERROR - Error creating task: Dates must be in YYYY-MM-DD format
+2025-05-24 01:14:23,210 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:14:23,211 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:14:56,152 - INFO - Added task: Task(id=4, title='API', description="develop all API'S", status='ToDo', priority='Medium', start_date='2025-05-23', due_date='2025-06-05', person_id=3, milestone_id=None)
+2025-05-24 01:14:56,155 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:14:56,156 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:14:56,157 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:14:56,157 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:14:56,158 - INFO - Refreshed tasks table
+2025-05-24 01:14:56,158 - INFO - Created task: API
+2025-05-24 01:15:02,613 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:02,614 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:02,616 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:02,618 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:02,618 - INFO - Refreshed tasks table
+2025-05-24 01:15:02,830 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:02,832 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:02,833 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:02,834 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:02,835 - INFO - Refreshed tasks table
+2025-05-24 01:15:04,578 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:04,581 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:04,583 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:04,584 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:04,585 - INFO - Refreshed tasks table
+2025-05-24 01:15:04,849 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:04,851 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:04,852 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:04,854 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:04,854 - INFO - Refreshed tasks table
+2025-05-24 01:15:05,736 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:05,737 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:05,739 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:05,740 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:05,740 - INFO - Refreshed tasks table
+2025-05-24 01:15:05,961 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:05,963 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:05,964 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:05,965 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:05,965 - INFO - Refreshed tasks table
+2025-05-24 01:15:06,331 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:06,333 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:06,334 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:06,335 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:06,335 - INFO - Refreshed tasks table
+2025-05-24 01:15:10,198 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:10,200 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:10,201 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:10,203 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:10,209 - INFO - Refreshed tasks table
+2025-05-24 01:15:10,571 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:10,572 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:10,574 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:10,575 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:10,575 - INFO - Refreshed tasks table
+2025-05-24 01:15:11,050 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:11,052 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:11,053 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:11,055 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:11,055 - INFO - Refreshed tasks table
+2025-05-24 01:15:12,891 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:12,893 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:12,895 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:12,897 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:12,897 - INFO - Refreshed tasks table
+2025-05-24 01:15:13,449 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:13,451 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:13,453 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:13,454 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:13,454 - INFO - Refreshed tasks table
+2025-05-24 01:15:13,947 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:13,949 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:13,951 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:13,952 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:13,952 - INFO - Refreshed tasks table
+2025-05-24 01:15:16,368 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:16,370 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:16,371 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:16,373 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:16,373 - INFO - Refreshed tasks table
+2025-05-24 01:15:16,617 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:16,619 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:16,620 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:16,622 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:16,622 - INFO - Refreshed tasks table
+2025-05-24 01:15:16,785 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:16,787 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:16,788 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:16,790 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:16,790 - INFO - Refreshed tasks table
+2025-05-24 01:15:18,705 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:18,707 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:18,709 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:18,710 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:18,711 - INFO - Refreshed tasks table
+2025-05-24 01:15:18,936 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:18,937 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:18,938 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:18,939 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:18,940 - INFO - Refreshed tasks table
+2025-05-24 01:15:19,286 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:19,287 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:19,289 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:19,290 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:19,290 - INFO - Refreshed tasks table
+2025-05-24 01:15:20,412 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:20,414 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:20,415 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:20,416 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:20,417 - INFO - Refreshed tasks table
+2025-05-24 01:15:20,688 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:20,694 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:20,696 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:20,698 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:20,698 - INFO - Refreshed tasks table
+2025-05-24 01:15:20,899 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:15:20,901 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:15:20,902 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:15:20,904 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:15:20,904 - INFO - Refreshed tasks table
+2025-05-24 01:15:31,061 - ERROR - Milestone insertion error: Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+2025-05-24 01:15:31,062 - ERROR - Error creating milestone: Milestone insertion error: Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+2025-05-24 01:17:24,416 - INFO - Database initialized successfully
+2025-05-24 01:17:24,949 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:17:24,950 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:17:24,951 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:17:24,952 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:17:24,952 - INFO - Refreshed tasks table
+2025-05-24 01:17:24,953 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:17:24,953 - INFO - Refreshed milestones table
+2025-05-24 01:17:24,954 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:17:24,954 - INFO - Refreshed people table
+2025-05-24 01:17:24,954 - INFO - Loaded Tasks
+2025-05-24 01:19:37,314 - INFO - Database initialized successfully
+2025-05-24 01:19:38,712 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:19:38,713 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:19:38,715 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:19:38,716 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:19:38,716 - INFO - Refreshed tasks table
+2025-05-24 01:19:38,717 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:19:38,717 - INFO - Refreshed milestones table
+2025-05-24 01:19:38,717 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:19:38,718 - INFO - Refreshed people table
+2025-05-24 01:19:38,718 - INFO - Loaded Tasks
+2025-05-24 01:19:51,059 - INFO - Added milestone: Milestone(id=1, name='Design-phase')
+2025-05-24 01:19:51,062 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:19:51,062 - INFO - Refreshed milestones table
+2025-05-24 01:19:51,062 - INFO - Created milestone: Design-phase
+2025-05-24 01:19:58,052 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=None)
+2025-05-24 01:19:58,060 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:19:58,062 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:19:58,063 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:20:02,653 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=None)
+2025-05-24 01:20:02,676 - INFO - Updated task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=1)
+2025-05-24 01:20:02,680 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:20:02,681 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:20:02,681 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:20:02,682 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:20:02,682 - INFO - Refreshed tasks table
+2025-05-24 01:20:02,682 - INFO - Updated task ID: 1
+2025-05-24 01:20:08,721 - INFO - Retrieved milestone: Milestone(id=1, name='Design-phase')
+2025-05-24 01:20:12,311 - INFO - Retrieved milestone: Milestone(id=1, name='Design-phase')
+2025-05-24 01:20:12,320 - INFO - Updated milestone: Milestone(id=1, name='Design')
+2025-05-24 01:20:12,323 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:20:12,323 - INFO - Refreshed milestones table
+2025-05-24 01:20:12,323 - INFO - Updated milestone ID: 1
+2025-05-24 01:20:24,548 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=1)
+2025-05-24 01:20:24,552 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:20:24,554 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:20:24,555 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:20:24,557 - INFO - Retrieved milestone: Milestone(id=1, name='Design')
+2025-05-24 01:20:32,394 - INFO - Deleted milestone with id 1
+2025-05-24 01:20:32,396 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:20:32,396 - INFO - Refreshed milestones table
+2025-05-24 01:20:32,396 - INFO - Deleted milestone ID: 1
+2025-05-24 01:20:36,402 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=None)
+2025-05-24 01:20:36,406 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:20:36,411 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:20:36,413 - INFO - Retrieved 0 milestones, sorted by name
+2025-05-24 01:20:47,665 - INFO - Added milestone: Milestone(id=2, name='Design')
+2025-05-24 01:20:47,668 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:20:47,668 - INFO - Refreshed milestones table
+2025-05-24 01:20:47,668 - INFO - Created milestone: Design
+2025-05-24 01:20:50,953 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=None)
+2025-05-24 01:20:50,954 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:20:50,954 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:20:50,955 - INFO - Retrieved 1 milestones, sorted by name
+2025-05-24 01:20:54,101 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=None)
+2025-05-24 01:20:54,111 - INFO - Updated task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=2)
+2025-05-24 01:20:54,116 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:20:54,117 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:20:54,117 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:20:54,117 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:20:54,118 - INFO - Refreshed tasks table
+2025-05-24 01:20:54,118 - INFO - Updated task ID: 1
+2025-05-24 01:21:17,776 - INFO - Added milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:21:17,778 - INFO - Retrieved 2 milestones, sorted by name
+2025-05-24 01:21:17,779 - INFO - Refreshed milestones table
+2025-05-24 01:21:17,779 - INFO - Created milestone: Front-develop
+2025-05-24 01:21:27,955 - INFO - Added milestone: Milestone(id=4, name='Back-develop')
+2025-05-24 01:21:27,958 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:21:27,959 - INFO - Refreshed milestones table
+2025-05-24 01:21:27,959 - INFO - Created milestone: Back-develop
+2025-05-24 01:21:33,372 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=None)
+2025-05-24 01:21:33,375 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:21:33,377 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:21:33,379 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:21:38,919 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=None)
+2025-05-24 01:21:38,928 - INFO - Updated task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=3)
+2025-05-24 01:21:38,929 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:21:38,930 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:21:38,931 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:21:38,931 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:21:38,932 - INFO - Refreshed tasks table
+2025-05-24 01:21:38,932 - INFO - Updated task ID: 2
+2025-05-24 01:33:47,781 - INFO - Database initialized successfully
+2025-05-24 01:33:49,108 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:33:49,207 - INFO - Refreshed Gantt chart
+2025-05-24 01:33:49,214 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:33:49,215 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:33:49,218 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:33:49,219 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:33:49,219 - INFO - Refreshed tasks table
+2025-05-24 01:33:49,220 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:33:49,220 - INFO - Refreshed milestones table
+2025-05-24 01:33:49,220 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:33:49,221 - INFO - Refreshed people table
+2025-05-24 01:33:49,227 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:33:49,279 - INFO - Refreshed Gantt chart
+2025-05-24 01:33:49,279 - INFO - Loaded Tasks
+2025-05-24 01:34:10,742 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:34:10,742 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:34:27,109 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=2)
+2025-05-24 01:34:27,117 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:34:27,119 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:34:27,120 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:34:27,121 - INFO - Retrieved milestone: Milestone(id=2, name='Design')
+2025-05-24 01:34:34,451 - INFO - Retrieved task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-23', due_date='2025-05-25', person_id=1, milestone_id=2)
+2025-05-24 01:34:34,459 - INFO - Updated task: Task(id=1, title='sketch', description='wireframe of all pages', status='ToDo', priority='High', start_date='2025-05-22', due_date='2025-05-26', person_id=1, milestone_id=2)
+2025-05-24 01:34:34,461 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:34:34,462 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:34:34,463 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:34:34,463 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:34:34,463 - INFO - Refreshed tasks table
+2025-05-24 01:34:34,470 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:34:34,533 - INFO - Refreshed Gantt chart
+2025-05-24 01:34:34,533 - INFO - Updated task ID: 1
+2025-05-24 01:34:39,254 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=3)
+2025-05-24 01:34:39,256 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:34:39,256 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:34:39,257 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:34:39,257 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:34:49,165 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-26', due_date='2025-05-29', person_id=2, milestone_id=3)
+2025-05-24 01:34:49,175 - INFO - Updated task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2027-05-27', due_date='2025-05-30', person_id=2, milestone_id=3)
+2025-05-24 01:34:49,177 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:34:49,178 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:34:49,178 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:34:49,179 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:34:49,179 - INFO - Refreshed tasks table
+2025-05-24 01:34:49,191 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:34:49,272 - INFO - Refreshed Gantt chart
+2025-05-24 01:34:49,272 - INFO - Updated task ID: 2
+2025-05-24 01:34:52,478 - INFO - Retrieved task: Task(id=4, title='API', description="develop all API'S", status='ToDo', priority='Medium', start_date='2025-05-23', due_date='2025-06-05', person_id=3, milestone_id=None)
+2025-05-24 01:34:52,481 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:34:52,482 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:34:52,483 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:35:11,393 - INFO - Retrieved task: Task(id=4, title='API', description="develop all API'S", status='ToDo', priority='Medium', start_date='2025-05-23', due_date='2025-06-05', person_id=3, milestone_id=None)
+2025-05-24 01:35:11,401 - INFO - Updated task: Task(id=4, title='API', description="develop all API'S", status='ToDo', priority='Medium', start_date='2025-06-01', due_date='2025-06-05', person_id=3, milestone_id=None)
+2025-05-24 01:35:11,403 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:35:11,403 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:35:11,403 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:35:11,404 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:35:11,404 - INFO - Refreshed tasks table
+2025-05-24 01:35:11,411 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:35:11,483 - INFO - Refreshed Gantt chart
+2025-05-24 01:35:11,483 - INFO - Updated task ID: 4
+2025-05-24 01:35:16,936 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:35:16,938 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:35:43,908 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:35:43,910 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:35:43,911 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:35:43,912 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:35:43,913 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:35:43,914 - INFO - Retrieved milestone: Milestone(id=2, name='Design')
+2025-05-24 01:35:43,914 - INFO - Exported tasks to tasks_export.csv
+2025-05-24 01:37:50,228 - INFO - Database initialized successfully
+2025-05-24 01:37:50,821 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:37:50,917 - INFO - Refreshed Gantt chart
+2025-05-24 01:37:50,922 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:37:50,922 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:37:50,923 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:37:50,923 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:37:50,923 - INFO - Refreshed tasks table
+2025-05-24 01:37:50,924 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:37:50,924 - INFO - Refreshed milestones table
+2025-05-24 01:37:50,925 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:37:50,925 - INFO - Refreshed people table
+2025-05-24 01:37:50,931 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:37:50,994 - INFO - Refreshed Gantt chart
+2025-05-24 01:37:50,994 - INFO - Loaded Tasks
+2025-05-24 01:37:53,525 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:37:53,527 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:37:53,528 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:37:53,528 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:37:53,529 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:37:53,530 - INFO - Retrieved milestone: Milestone(id=2, name='Design')
+2025-05-24 01:37:53,530 - INFO - Exported tasks to tasks_export.csv
+2025-05-24 01:41:30,955 - INFO - Database initialized successfully
+2025-05-24 01:41:32,111 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:41:32,203 - INFO - Refreshed Gantt chart
+2025-05-24 01:41:32,207 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:41:32,207 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:41:32,209 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:41:32,210 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:41:32,210 - INFO - Refreshed tasks table
+2025-05-24 01:41:32,211 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:41:32,211 - INFO - Refreshed milestones table
+2025-05-24 01:41:32,211 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:41:32,212 - INFO - Refreshed people table
+2025-05-24 01:41:32,218 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:41:32,280 - INFO - Refreshed Gantt chart
+2025-05-24 01:41:32,280 - INFO - Loaded Tasks
+2025-05-24 01:42:05,373 - INFO - Database initialized successfully
+2025-05-24 01:42:05,918 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:42:05,994 - INFO - Refreshed Gantt chart
+2025-05-24 01:42:05,997 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:42:05,998 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:42:05,999 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:42:05,999 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:42:05,999 - INFO - Refreshed tasks table
+2025-05-24 01:42:06,000 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:42:06,000 - INFO - Refreshed milestones table
+2025-05-24 01:42:06,001 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:42:06,001 - INFO - Refreshed people table
+2025-05-24 01:42:06,007 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:42:06,062 - INFO - Refreshed Gantt chart
+2025-05-24 01:42:06,062 - INFO - Loaded Tasks
+2025-05-24 01:42:20,495 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:42:20,496 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:42:20,497 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:42:20,498 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:42:20,499 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:42:20,499 - INFO - Retrieved milestone: Milestone(id=2, name='Design')
+2025-05-24 01:42:20,500 - INFO - Exported tasks to C:/Users/karim/Downloads/tasks_export.csv
+2025-05-24 01:46:39,066 - INFO - Database initialized successfully
+2025-05-24 01:46:39,645 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:46:39,740 - INFO - Refreshed Gantt chart
+2025-05-24 01:46:39,745 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:46:39,745 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:46:39,746 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:46:39,747 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:46:39,747 - INFO - Refreshed tasks table
+2025-05-24 01:46:39,748 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:46:39,748 - INFO - Refreshed milestones table
+2025-05-24 01:46:39,748 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:46:39,748 - INFO - Refreshed people table
+2025-05-24 01:46:39,754 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:46:39,812 - INFO - Refreshed Gantt chart
+2025-05-24 01:46:39,812 - INFO - Loaded Tasks
+2025-05-24 01:47:41,675 - INFO - Database initialized successfully
+2025-05-24 01:47:56,841 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:48:29,229 - INFO - Refreshed Gantt chart
+2025-05-24 01:48:36,439 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:48:36,441 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:48:36,444 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:48:36,445 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:48:36,446 - INFO - Refreshed tasks table
+2025-05-24 01:48:36,446 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:48:36,447 - INFO - Refreshed milestones table
+2025-05-24 01:48:36,448 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:48:36,448 - INFO - Refreshed people table
+2025-05-24 01:48:36,483 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:48:36,694 - INFO - Refreshed Gantt chart
+2025-05-24 01:48:36,695 - INFO - Loaded Tasks
+2025-05-24 01:55:28,767 - INFO - Database initialized successfully
+2025-05-24 01:55:29,756 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:55:29,871 - INFO - Refreshed Gantt chart
+2025-05-24 01:55:29,875 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:55:29,876 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:55:29,877 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:55:29,877 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:55:29,878 - INFO - Refreshed tasks table
+2025-05-24 01:55:29,878 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:55:29,878 - INFO - Refreshed milestones table
+2025-05-24 01:55:29,879 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:55:29,879 - INFO - Refreshed people table
+2025-05-24 01:55:29,886 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:55:29,973 - INFO - Refreshed Gantt chart
+2025-05-24 01:55:29,973 - INFO - Loaded Tasks
+2025-05-24 01:56:17,612 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2027-05-27', due_date='2025-05-30', person_id=2, milestone_id=3)
+2025-05-24 01:56:17,634 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:56:17,635 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:56:17,635 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:56:17,636 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-24 01:56:35,969 - INFO - Retrieved task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2027-05-27', due_date='2025-05-30', person_id=2, milestone_id=3)
+2025-05-24 01:56:35,977 - INFO - Updated task: Task(id=2, title='develop UI', description='develop all forms', status='ToDo', priority='High', start_date='2025-05-27', due_date='2025-05-30', person_id=2, milestone_id=3)
+2025-05-24 01:56:35,980 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:56:35,981 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:56:35,981 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:56:35,982 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:56:35,982 - INFO - Refreshed tasks table
+2025-05-24 01:56:35,990 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:56:36,086 - INFO - Refreshed Gantt chart
+2025-05-24 01:56:36,086 - INFO - Updated task ID: 2
+2025-05-24 01:58:08,383 - INFO - Database initialized successfully
+2025-05-24 01:58:08,990 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:58:09,081 - INFO - Refreshed Gantt chart
+2025-05-24 01:58:09,085 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:58:09,085 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 01:58:09,086 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 01:58:09,087 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 01:58:09,087 - INFO - Refreshed tasks table
+2025-05-24 01:58:09,087 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 01:58:09,088 - INFO - Refreshed milestones table
+2025-05-24 01:58:09,088 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 01:58:09,088 - INFO - Refreshed people table
+2025-05-24 01:58:09,095 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 01:58:09,171 - INFO - Refreshed Gantt chart
+2025-05-24 01:58:09,171 - INFO - Loaded Tasks
+2025-05-24 15:58:11,833 - INFO - Database initialized successfully
+2025-05-24 15:58:13,389 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 15:58:13,500 - INFO - Refreshed Gantt chart
+2025-05-24 15:58:13,506 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 15:58:13,508 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 15:58:13,510 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 15:58:13,510 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 15:58:13,510 - INFO - Refreshed tasks table
+2025-05-24 15:58:13,511 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 15:58:13,511 - INFO - Refreshed milestones table
+2025-05-24 15:58:13,511 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 15:58:13,511 - INFO - Refreshed people table
+2025-05-24 15:58:13,518 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 15:58:13,592 - INFO - Refreshed Gantt chart
+2025-05-24 15:58:13,592 - INFO - Loaded Tasks
+2025-05-24 16:17:54,550 - INFO - Database initialized successfully
+2025-05-24 16:19:14,431 - INFO - Database initialized successfully
+2025-05-24 16:19:15,215 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 16:19:15,337 - INFO - Refreshed Gantt chart
+2025-05-24 16:19:15,344 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 16:19:15,345 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-24 16:19:15,350 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-24 16:19:15,350 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-24 16:19:15,350 - INFO - Refreshed tasks table
+2025-05-24 16:19:15,351 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-24 16:19:15,351 - INFO - Refreshed milestones table
+2025-05-24 16:19:15,351 - INFO - Retrieved 3 persons, sorted by name
+2025-05-24 16:19:15,352 - INFO - Refreshed people table
+2025-05-24 16:19:15,357 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-24 16:19:15,431 - INFO - Refreshed Gantt chart
+2025-05-24 16:19:15,431 - INFO - Loaded Tasks
+2025-05-24 16:21:15,304 - INFO - Database initialized successfully
+2025-05-24 16:32:08,137 - INFO - Database initialized successfully
+2025-05-24 16:32:31,428 - INFO - Database initialized successfully
+2025-05-24 16:33:05,223 - INFO - Database initialized successfully
+2025-05-24 16:33:33,290 - INFO - Database initialized successfully
+2025-05-25 10:56:30,145 - INFO - Database initialized successfully
+2025-05-25 10:58:19,635 - INFO - Database initialized successfully
+2025-05-25 10:59:03,144 - INFO - Database initialized successfully
+2025-05-25 10:59:03,863 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 10:59:03,957 - INFO - Refreshed Gantt chart
+2025-05-25 10:59:03,973 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 10:59:03,973 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 10:59:03,973 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 10:59:03,973 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 10:59:03,973 - INFO - Refreshed tasks table
+2025-05-25 10:59:03,973 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 10:59:03,973 - INFO - Refreshed milestones table
+2025-05-25 10:59:03,973 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 10:59:03,973 - INFO - Refreshed people table
+2025-05-25 10:59:03,973 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 10:59:04,051 - INFO - Refreshed Gantt chart
+2025-05-25 10:59:04,051 - INFO - Loaded Tasks
+2025-05-25 11:13:20,443 - INFO - Database initialized successfully
+2025-05-25 11:13:21,900 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:13:22,028 - INFO - Refreshed Gantt chart
+2025-05-25 11:13:22,032 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:13:22,033 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:13:22,036 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:13:22,037 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:13:22,037 - INFO - Refreshed tasks table
+2025-05-25 11:13:22,038 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:13:22,038 - INFO - Refreshed milestones table
+2025-05-25 11:13:22,038 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:13:22,039 - INFO - Refreshed people table
+2025-05-25 11:13:22,047 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:13:22,124 - INFO - Refreshed Gantt chart
+2025-05-25 11:13:22,124 - INFO - Loaded Tasks
+2025-05-25 11:19:32,719 - INFO - Database initialized successfully
+2025-05-25 11:19:34,168 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:19:34,265 - INFO - Refreshed Gantt chart
+2025-05-25 11:19:34,268 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:19:34,269 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:19:34,270 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:19:34,270 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:19:34,270 - INFO - Refreshed tasks table
+2025-05-25 11:19:34,271 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:19:34,271 - INFO - Refreshed milestones table
+2025-05-25 11:19:34,272 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:19:34,272 - INFO - Refreshed people table
+2025-05-25 11:19:34,278 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:19:34,355 - INFO - Refreshed Gantt chart
+2025-05-25 11:19:34,355 - INFO - Loaded Tasks
+2025-05-25 11:20:19,150 - INFO - Database initialized successfully
+2025-05-25 11:20:19,863 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:20:19,958 - INFO - Refreshed Gantt chart
+2025-05-25 11:20:19,961 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:20:19,961 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:20:19,962 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:20:19,962 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:20:19,962 - INFO - Refreshed tasks table
+2025-05-25 11:20:19,963 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:20:19,963 - INFO - Refreshed milestones table
+2025-05-25 11:20:19,964 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:20:19,964 - INFO - Refreshed people table
+2025-05-25 11:20:19,971 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:20:20,048 - INFO - Refreshed Gantt chart
+2025-05-25 11:20:20,048 - INFO - Loaded Tasks
+2025-05-25 11:29:44,641 - INFO - Database initialized successfully
+2025-05-25 11:29:45,971 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:29:46,077 - INFO - Refreshed Gantt chart
+2025-05-25 11:29:46,081 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:29:46,083 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:29:46,086 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:29:46,086 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:29:46,086 - INFO - Refreshed tasks table
+2025-05-25 11:29:46,086 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:29:46,086 - INFO - Refreshed milestones table
+2025-05-25 11:29:46,087 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:29:46,087 - INFO - Refreshed people table
+2025-05-25 11:29:46,093 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:29:46,170 - INFO - Refreshed Gantt chart
+2025-05-25 11:29:46,170 - INFO - Loaded Tasks
+2025-05-25 11:30:07,786 - INFO - Added person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Backend developer')
+2025-05-25 11:30:07,795 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:30:07,797 - INFO - Refreshed people table
+2025-05-25 11:30:07,797 - INFO - Created person: Sareh
+2025-05-25 11:30:15,647 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Backend developer')
+2025-05-25 11:30:20,207 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Backend developer')
+2025-05-25 11:30:20,221 - INFO - Updated person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:30:20,229 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:30:20,230 - INFO - Refreshed people table
+2025-05-25 11:30:20,231 - INFO - Updated person ID: 4
+2025-05-25 11:31:30,116 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:31:30,117 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:31:41,307 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:31:41,309 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:31:41,310 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:31:41,311 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:31:41,312 - INFO - Refreshed tasks table
+2025-05-25 11:31:41,559 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:31:41,560 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:31:41,561 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:31:41,562 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:31:41,562 - INFO - Refreshed tasks table
+2025-05-25 11:44:34,146 - INFO - Database initialized successfully
+2025-05-25 11:44:35,360 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:44:35,465 - INFO - Refreshed Gantt chart
+2025-05-25 11:44:35,468 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:44:35,468 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:44:35,470 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:44:35,470 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:44:35,470 - INFO - Refreshed tasks table
+2025-05-25 11:44:35,471 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:44:35,471 - INFO - Refreshed milestones table
+2025-05-25 11:44:35,471 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:44:35,471 - INFO - Refreshed people table
+2025-05-25 11:44:35,481 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:44:35,556 - INFO - Refreshed Gantt chart
+2025-05-25 11:44:35,556 - INFO - Loaded Tasks
+2025-05-25 11:44:39,627 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:44:39,629 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:45:13,759 - INFO - Added task: Task(id=5, title='test', description='test', status='InProgress', priority='High', start_date='2025-04-25', due_date='2025-06-01', person_id=4, milestone_id=4)
+2025-05-25 11:45:13,762 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:13,762 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:13,763 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:13,764 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:13,765 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:13,765 - INFO - Refreshed tasks table
+2025-05-25 11:45:13,774 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:13,859 - INFO - Refreshed Gantt chart
+2025-05-25 11:45:13,859 - INFO - Created task: test
+2025-05-25 11:45:18,583 - INFO - Retrieved task: Task(id=5, title='test', description='test', status='InProgress', priority='High', start_date='2025-04-25', due_date='2025-06-01', person_id=4, milestone_id=4)
+2025-05-25 11:45:18,594 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:45:18,596 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:18,599 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:45:18,601 - INFO - Retrieved milestone: Milestone(id=4, name='Back-develop')
+2025-05-25 11:45:24,924 - INFO - Retrieved task: Task(id=5, title='test', description='test', status='InProgress', priority='High', start_date='2025-04-25', due_date='2025-06-01', person_id=4, milestone_id=4)
+2025-05-25 11:45:24,931 - INFO - Updated task: Task(id=5, title='test1', description='test', status='InProgress', priority='High', start_date='2025-04-24', due_date='2025-06-01', person_id=4, milestone_id=4)
+2025-05-25 11:45:24,934 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:24,935 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:24,935 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:24,936 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:24,937 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:24,937 - INFO - Refreshed tasks table
+2025-05-25 11:45:24,946 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:25,037 - INFO - Refreshed Gantt chart
+2025-05-25 11:45:25,037 - INFO - Updated task ID: 5
+2025-05-25 11:45:30,828 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:30,829 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:30,830 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:30,832 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:30,833 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:30,834 - INFO - Refreshed tasks table
+2025-05-25 11:45:31,001 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:31,002 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:31,003 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:31,004 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:31,006 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:31,007 - INFO - Refreshed tasks table
+2025-05-25 11:45:32,286 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:32,288 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:32,289 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:32,290 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:32,292 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:32,292 - INFO - Refreshed tasks table
+2025-05-25 11:45:32,491 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:32,493 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:32,495 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:32,497 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:32,498 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:32,499 - INFO - Refreshed tasks table
+2025-05-25 11:45:49,161 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:49,163 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:49,164 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:49,166 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:49,167 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:49,168 - INFO - Refreshed tasks table
+2025-05-25 11:45:49,373 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:49,376 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:49,377 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:49,379 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:49,380 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:49,380 - INFO - Refreshed tasks table
+2025-05-25 11:45:50,418 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:50,419 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:50,421 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:50,422 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:50,424 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:50,424 - INFO - Refreshed tasks table
+2025-05-25 11:45:50,675 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:45:50,677 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:45:50,679 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:45:50,681 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:45:50,682 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:45:50,683 - INFO - Refreshed tasks table
+2025-05-25 11:45:57,841 - INFO - Added milestone: Milestone(id=5, name='test')
+2025-05-25 11:45:57,844 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 11:45:57,844 - INFO - Refreshed milestones table
+2025-05-25 11:45:57,844 - INFO - Created milestone: test
+2025-05-25 11:46:01,691 - INFO - Retrieved milestone: Milestone(id=5, name='test')
+2025-05-25 11:46:04,596 - INFO - Retrieved milestone: Milestone(id=5, name='test')
+2025-05-25 11:46:04,606 - INFO - Updated milestone: Milestone(id=5, name='test2')
+2025-05-25 11:46:04,608 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 11:46:04,608 - INFO - Refreshed milestones table
+2025-05-25 11:46:04,609 - INFO - Updated milestone ID: 5
+2025-05-25 11:46:07,813 - INFO - Deleted milestone with id 5
+2025-05-25 11:46:07,820 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:46:07,820 - INFO - Refreshed milestones table
+2025-05-25 11:46:07,821 - INFO - Deleted milestone ID: 5
+2025-05-25 11:48:01,808 - INFO - Database initialized successfully
+2025-05-25 11:48:02,604 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:48:02,695 - INFO - Refreshed Gantt chart
+2025-05-25 11:48:02,698 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:48:02,698 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:48:02,699 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:48:02,699 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:48:02,700 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:48:02,701 - INFO - Refreshed tasks table
+2025-05-25 11:48:02,701 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:48:02,701 - INFO - Refreshed milestones table
+2025-05-25 11:48:02,702 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:48:02,702 - INFO - Refreshed people table
+2025-05-25 11:48:02,709 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:48:02,784 - INFO - Refreshed Gantt chart
+2025-05-25 11:48:02,784 - INFO - Loaded Tasks
+2025-05-25 11:49:43,204 - INFO - Database initialized successfully
+2025-05-25 11:49:43,970 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:49:44,075 - INFO - Refreshed Gantt chart
+2025-05-25 11:49:44,078 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:49:44,079 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:49:44,079 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:49:44,080 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:49:44,080 - INFO - Retrieved person: Person(id=4, name='Sareh', email='sareh@yahoo.com', role='Boss')
+2025-05-25 11:49:44,081 - INFO - Refreshed tasks table
+2025-05-25 11:49:44,081 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:49:44,082 - INFO - Refreshed milestones table
+2025-05-25 11:49:44,082 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 11:49:44,083 - INFO - Refreshed people table
+2025-05-25 11:49:44,090 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 11:49:44,166 - INFO - Refreshed Gantt chart
+2025-05-25 11:49:44,166 - INFO - Loaded Tasks
+2025-05-25 11:49:49,579 - INFO - Deleted person with id 4
+2025-05-25 11:49:49,585 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:49:49,586 - INFO - Refreshed people table
+2025-05-25 11:49:49,586 - INFO - Deleted person ID: 4
+2025-05-25 11:52:44,163 - INFO - Database initialized successfully
+2025-05-25 11:52:45,004 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:52:45,095 - INFO - Refreshed Gantt chart
+2025-05-25 11:52:45,098 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:52:45,098 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:52:45,099 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:52:45,099 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:52:45,099 - INFO - Refreshed tasks table
+2025-05-25 11:52:45,100 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:52:45,100 - INFO - Refreshed milestones table
+2025-05-25 11:52:45,100 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:52:45,100 - INFO - Refreshed people table
+2025-05-25 11:52:45,107 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:52:45,183 - INFO - Refreshed Gantt chart
+2025-05-25 11:52:45,183 - INFO - Loaded Tasks
+2025-05-25 11:53:38,453 - INFO - Database initialized successfully
+2025-05-25 11:53:39,248 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:53:39,342 - INFO - Refreshed Gantt chart
+2025-05-25 11:53:39,345 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:53:39,346 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:53:39,347 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:53:39,347 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:53:39,347 - INFO - Refreshed tasks table
+2025-05-25 11:53:39,348 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:53:39,348 - INFO - Refreshed milestones table
+2025-05-25 11:53:39,349 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:53:39,349 - INFO - Refreshed people table
+2025-05-25 11:53:39,355 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:53:39,434 - INFO - Refreshed Gantt chart
+2025-05-25 11:53:39,435 - INFO - Loaded Tasks
+2025-05-25 11:55:34,051 - INFO - Database initialized successfully
+2025-05-25 11:55:34,826 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:55:34,917 - INFO - Refreshed Gantt chart
+2025-05-25 11:55:34,920 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:55:34,920 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 11:55:34,921 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 11:55:34,923 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 11:55:34,923 - INFO - Refreshed tasks table
+2025-05-25 11:55:34,923 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 11:55:34,924 - INFO - Refreshed milestones table
+2025-05-25 11:55:34,924 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 11:55:34,924 - INFO - Refreshed people table
+2025-05-25 11:55:34,929 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 11:55:35,002 - INFO - Refreshed Gantt chart
+2025-05-25 11:55:35,002 - INFO - Loaded Tasks
+2025-05-25 12:02:33,055 - INFO - Database initialized successfully
+2025-05-25 12:02:33,695 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:02:33,802 - INFO - Refreshed Gantt chart
+2025-05-25 12:02:33,805 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:02:33,806 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:02:33,807 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:02:33,807 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:02:33,807 - INFO - Refreshed tasks table
+2025-05-25 12:02:33,808 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:02:33,808 - INFO - Refreshed milestones table
+2025-05-25 12:02:33,808 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:02:33,809 - INFO - Refreshed people table
+2025-05-25 12:02:33,815 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:02:33,895 - INFO - Refreshed Gantt chart
+2025-05-25 12:02:33,895 - INFO - Loaded Tasks
+2025-05-25 12:02:47,756 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:02:47,758 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:02:58,078 - INFO - Added task: Task(id=6, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-25', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 12:02:58,081 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 12:02:58,082 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:02:58,082 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:02:58,083 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:02:58,084 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:02:58,084 - INFO - Refreshed tasks table
+2025-05-25 12:02:58,099 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 12:02:58,200 - INFO - Refreshed Gantt chart
+2025-05-25 12:02:58,200 - INFO - Created task: test
+2025-05-25 12:03:01,657 - INFO - Retrieved task: Task(id=6, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-25', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 12:03:01,667 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:03:01,669 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:03:01,670 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:03:03,615 - INFO - Retrieved task: Task(id=6, title='test', description='test', status='ToDo', priority='High', start_date='2025-05-25', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 12:03:03,620 - INFO - Updated task: Task(id=6, title='testw', description='test', status='ToDo', priority='High', start_date='2025-05-25', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 12:03:03,622 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 12:03:03,623 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:03:03,624 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:03:03,625 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:03:03,626 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:03:03,626 - INFO - Refreshed tasks table
+2025-05-25 12:03:03,632 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 12:03:03,750 - INFO - Refreshed Gantt chart
+2025-05-25 12:03:03,750 - INFO - Updated task ID: 6
+2025-05-25 12:03:07,915 - INFO - Deleted task with id 6
+2025-05-25 12:03:07,922 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:03:07,924 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:03:07,926 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:03:07,927 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:03:07,927 - INFO - Refreshed tasks table
+2025-05-25 12:03:07,946 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:03:08,033 - INFO - Refreshed Gantt chart
+2025-05-25 12:03:08,033 - INFO - Deleted task ID: 6
+2025-05-25 12:03:11,594 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:03:11,596 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:03:11,596 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:03:11,597 - INFO - Retrieved milestone: Milestone(id=3, name='Front-develop')
+2025-05-25 12:03:11,597 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:03:11,598 - INFO - Retrieved milestone: Milestone(id=2, name='Design')
+2025-05-25 12:03:11,598 - INFO - Exported tasks to D:/Projects/Haneen/Project_management/Project_management/tasks_export.csv
+2025-05-25 12:03:20,122 - INFO - Added milestone: Milestone(id=6, name='test')
+2025-05-25 12:03:20,124 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 12:03:20,124 - INFO - Refreshed milestones table
+2025-05-25 12:03:20,124 - INFO - Created milestone: test
+2025-05-25 12:03:23,115 - INFO - Retrieved milestone: Milestone(id=6, name='test')
+2025-05-25 12:03:24,442 - INFO - Retrieved milestone: Milestone(id=6, name='test')
+2025-05-25 12:03:24,450 - INFO - Updated milestone: Milestone(id=6, name='test2')
+2025-05-25 12:03:24,453 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 12:03:24,453 - INFO - Refreshed milestones table
+2025-05-25 12:03:24,453 - INFO - Updated milestone ID: 6
+2025-05-25 12:03:26,823 - INFO - Deleted milestone with id 6
+2025-05-25 12:03:26,831 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:03:26,831 - INFO - Refreshed milestones table
+2025-05-25 12:03:26,832 - INFO - Deleted milestone ID: 6
+2025-05-25 12:03:39,949 - INFO - Added person: Person(id=5, name='sare', email='sare@yahoo.com', role='boss')
+2025-05-25 12:03:39,951 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 12:03:39,951 - INFO - Refreshed people table
+2025-05-25 12:03:39,951 - INFO - Created person: sare
+2025-05-25 12:03:43,079 - INFO - Retrieved person: Person(id=5, name='sare', email='sare@yahoo.com', role='boss')
+2025-05-25 12:03:46,413 - INFO - Retrieved person: Person(id=5, name='sare', email='sare@yahoo.com', role='boss')
+2025-05-25 12:03:46,423 - INFO - Updated person: Person(id=5, name='sarew', email='sare@yahoo.com', role='boss')
+2025-05-25 12:03:46,425 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 12:03:46,425 - INFO - Refreshed people table
+2025-05-25 12:03:46,425 - INFO - Updated person ID: 5
+2025-05-25 12:03:49,963 - INFO - Deleted person with id 5
+2025-05-25 12:03:49,967 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:03:49,967 - INFO - Refreshed people table
+2025-05-25 12:03:49,968 - INFO - Deleted person ID: 5
+2025-05-25 12:09:14,757 - INFO - Database initialized successfully
+2025-05-25 12:09:15,566 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:09:15,664 - INFO - Refreshed Gantt chart
+2025-05-25 12:09:15,667 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:09:15,667 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:09:15,668 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:09:15,668 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:09:15,669 - INFO - Refreshed tasks table
+2025-05-25 12:09:15,669 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:09:15,669 - INFO - Refreshed milestones table
+2025-05-25 12:09:15,669 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:09:15,670 - INFO - Refreshed people table
+2025-05-25 12:09:15,676 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:09:15,756 - INFO - Refreshed Gantt chart
+2025-05-25 12:09:15,756 - INFO - Loaded Tasks
+2025-05-25 12:41:07,554 - INFO - Database initialized successfully
+2025-05-25 12:41:08,691 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:41:08,844 - INFO - Refreshed Gantt chart
+2025-05-25 12:41:08,849 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:41:08,850 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:41:08,852 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:41:08,852 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:41:08,853 - INFO - Refreshed tasks table
+2025-05-25 12:41:08,853 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:41:08,853 - INFO - Refreshed milestones table
+2025-05-25 12:41:08,854 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:41:08,854 - INFO - Refreshed people table
+2025-05-25 12:41:08,867 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:41:08,992 - INFO - Refreshed Gantt chart
+2025-05-25 12:41:08,992 - INFO - Loaded Tasks
+2025-05-25 12:48:47,525 - INFO - Database initialized successfully
+2025-05-25 12:48:49,016 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:48:49,199 - INFO - Refreshed Gantt chart
+2025-05-25 12:48:49,204 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:48:49,204 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 12:48:49,205 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 12:48:49,206 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 12:48:49,207 - INFO - Refreshed tasks table
+2025-05-25 12:48:49,207 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 12:48:49,208 - INFO - Refreshed milestones table
+2025-05-25 12:48:49,208 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:48:49,208 - INFO - Refreshed people table
+2025-05-25 12:48:49,217 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 12:48:49,295 - INFO - Refreshed Gantt chart
+2025-05-25 12:48:49,295 - INFO - Loaded Tasks
+2025-05-25 12:48:52,413 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 12:48:52,414 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 18:18:11,656 - INFO - Database initialized successfully
+2025-05-25 18:18:14,307 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:18:14,418 - INFO - Refreshed Gantt chart
+2025-05-25 18:18:14,421 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:18:14,423 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:18:14,425 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:18:14,426 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:18:14,426 - INFO - Refreshed tasks table
+2025-05-25 18:18:14,428 - INFO - Retrieved 3 milestones, sorted by name
+2025-05-25 18:18:14,429 - INFO - Refreshed milestones table
+2025-05-25 18:18:14,430 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:18:14,430 - INFO - Refreshed people table
+2025-05-25 18:18:14,445 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:18:14,528 - INFO - Refreshed Gantt chart
+2025-05-25 18:18:14,528 - INFO - Loaded Tasks
+2025-05-25 18:18:24,130 - INFO - Added milestone: Milestone(id=7, name='test')
+2025-05-25 18:18:24,134 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 18:18:24,134 - INFO - Refreshed milestones table
+2025-05-25 18:18:24,134 - INFO - Created milestone: test
+2025-05-25 18:20:10,390 - INFO - Database initialized successfully
+2025-05-25 18:20:11,066 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:20:11,171 - INFO - Refreshed Gantt chart
+2025-05-25 18:20:11,174 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:20:11,174 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:20:11,176 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:20:11,176 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:20:11,176 - INFO - Refreshed tasks table
+2025-05-25 18:20:11,177 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 18:20:11,177 - INFO - Refreshed milestones table
+2025-05-25 18:20:11,177 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:20:11,178 - INFO - Refreshed people table
+2025-05-25 18:20:11,183 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:20:11,261 - INFO - Refreshed Gantt chart
+2025-05-25 18:20:11,261 - INFO - Loaded Tasks
+2025-05-25 18:20:17,195 - INFO - Retrieved milestone: Milestone(id=4, name='Back-develop')
+2025-05-25 18:24:10,710 - INFO - Database initialized successfully
+2025-05-25 18:24:11,449 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:24:11,563 - INFO - Refreshed Gantt chart
+2025-05-25 18:24:11,566 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:24:11,566 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:24:11,567 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:11,567 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:24:11,568 - INFO - Refreshed tasks table
+2025-05-25 18:24:11,568 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 18:24:11,568 - INFO - Refreshed milestones table
+2025-05-25 18:24:11,569 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:24:11,569 - INFO - Refreshed people table
+2025-05-25 18:24:11,578 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:24:11,665 - INFO - Refreshed Gantt chart
+2025-05-25 18:24:11,665 - INFO - Loaded Tasks
+2025-05-25 18:24:15,628 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:24:15,631 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 18:24:29,805 - INFO - Added task: Task(id=7, title='test', description='test', status='InProgress', priority='High', start_date='2025-05-06', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 18:24:29,808 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 18:24:29,809 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:24:29,810 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:29,811 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:24:29,812 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:29,812 - INFO - Refreshed tasks table
+2025-05-25 18:24:29,823 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 18:24:29,928 - INFO - Refreshed Gantt chart
+2025-05-25 18:24:29,929 - INFO - Created task: test
+2025-05-25 18:24:32,420 - INFO - Retrieved task: Task(id=7, title='test', description='test', status='InProgress', priority='High', start_date='2025-05-06', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 18:24:32,433 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:24:32,435 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:32,437 - INFO - Retrieved 4 milestones, sorted by name
+2025-05-25 18:24:35,994 - INFO - Retrieved task: Task(id=7, title='test', description='test', status='InProgress', priority='High', start_date='2025-05-06', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 18:24:36,003 - INFO - Updated task: Task(id=7, title='testd', description='test', status='InProgress', priority='High', start_date='2025-05-06', due_date='2025-05-25', person_id=2, milestone_id=None)
+2025-05-25 18:24:36,006 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 18:24:36,007 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:24:36,008 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:36,009 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:24:36,010 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:36,010 - INFO - Refreshed tasks table
+2025-05-25 18:24:36,017 - INFO - Retrieved 4 tasks, sorted by title
+2025-05-25 18:24:36,115 - INFO - Refreshed Gantt chart
+2025-05-25 18:24:36,116 - INFO - Updated task ID: 7
+2025-05-25 18:24:40,086 - INFO - Deleted task with id 7
+2025-05-25 18:24:40,088 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:24:40,089 - INFO - Retrieved person: Person(id=3, name='Max', email='max@yahoo.com', role='Python developer')
+2025-05-25 18:24:40,090 - INFO - Retrieved person: Person(id=2, name='Mary', email='mary@gmail.com', role='UI developer')
+2025-05-25 18:24:40,091 - INFO - Retrieved person: Person(id=1, name='Vero', email='vero@gmail.com', role='UI designer')
+2025-05-25 18:24:40,091 - INFO - Refreshed tasks table
+2025-05-25 18:24:40,104 - INFO - Retrieved 3 tasks, sorted by title
+2025-05-25 18:24:40,199 - INFO - Refreshed Gantt chart
+2025-05-25 18:24:40,199 - INFO - Deleted task ID: 7
+2025-05-25 18:24:54,351 - INFO - Added person: Person(id=6, name='test', email='t@yahoo.com', role='')
+2025-05-25 18:24:54,356 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 18:24:54,356 - INFO - Refreshed people table
+2025-05-25 18:24:54,356 - INFO - Created person: test
+2025-05-25 18:24:57,500 - INFO - Retrieved person: Person(id=6, name='test', email='t@yahoo.com', role='')
+2025-05-25 18:25:00,984 - INFO - Retrieved person: Person(id=6, name='test', email='t@yahoo.com', role='')
+2025-05-25 18:25:00,990 - INFO - Updated person: Person(id=6, name='testt', email='t@yahoo.com', role='t')
+2025-05-25 18:25:00,993 - INFO - Retrieved 4 persons, sorted by name
+2025-05-25 18:25:00,993 - INFO - Refreshed people table
+2025-05-25 18:25:00,993 - INFO - Updated person ID: 6
+2025-05-25 18:25:02,936 - INFO - Deleted person with id 6
+2025-05-25 18:25:02,940 - INFO - Retrieved 3 persons, sorted by name
+2025-05-25 18:25:02,940 - INFO - Refreshed people table
+2025-05-25 18:25:02,941 - INFO - Deleted person ID: 6
