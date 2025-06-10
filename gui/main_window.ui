@@ -18,8 +18,7 @@
     <normaloff>../resources/logo.ico</normaloff>../resources/logo.ico</iconset>
   </property>
   <property name="styleSheet">
-   <string notr="true">
-                /* Global styles */
+   <string notr="true">/* Global styles */
                 QMainWindow, QWidget {
                 background-color: #f5f7fa;
                 font-family: 'Segoe UI', Arial, sans-serif;
@@ -168,17 +167,16 @@
                 QPushButton#tasksUpdateButton:hover, QPushButton#peopleUpdateButton:hover, QPushButton#milestonesUpdateButton:hover{
                 background-color: #2980b9;
                 }
-               QPushButton#tasksDeleteButton:hover, QPushButton#peopleDeleteButton:hover, QPushButton#milestonesDeleteButton:hover {
+                QPushButton#tasksDeleteButton:hover, QPushButton#peopleDeleteButton:hover, QPushButton#milestonesDeleteButton:hover {
                 background-color: #c0392b;
                 }
                 QPushButton#tasksExportButton:hover {
                 background-color: #d4ac0d;
                 }
 
-                QPushButton#tasksAddButton:pressed, QPushButton#peopleAddButton:pressed, QPushButton#milestonesAddButton:pressed
+                QPushButton#tasksAddButton:pressed, QPushButton#peopleAddButton:pressed, QPushButton#milestonesAddButton:pressed,
                 QPushButton#tasksUpdateButton:pressed, QPushButton#peopleUpdateButton:pressed, QPushButton#milestonesUpdateButton:pressed,
-                QPushButton#tasksDeleteButton:pressed, QPushButton#peopleDeleteButton:pressed, QPushButton#milestonesDeleteButton:pressed,
-                QPushButton#tasksExportButton:pressed {
+                QPushButton#tasksDeleteButton:pressed, QPushButton#peopleDeleteButton:pressed, QPushButton#milestQPushButton#tasksExportButton:pressed {
                 opacity: 0.8;
                 }
 
@@ -234,15 +232,44 @@
                 QDialogButtonBox QPushButton:pressed {
                 background-color: #1f618d;
                 }
+
+                /* Calendar */
+                QCalendarWidget {
+                background-color: #ffffff;
+                border: 1px solid #e0e0e0;
+                border-radius: 4px;
+                }
+                QCalendarWidget QToolButton {
+                background-color: #f5f5f5;
+                border: none;
+                padding: 8px;
+                }
+                QCalendarWidget QToolButton:hover {
+                background-color: #e0e0e0;
+                }
+                QCalendarWidget QAbstractItemView {
+                selection-background-color: #3498db;
+                selection-color: #ffffff;
+                }
+                QCalendarWidget QWidget#qt_calendar_calendarview {
+                background-color: #ffffff;
+                }
    </string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
     <item>
-     <layout class="QVBoxLayout" name="verticalLayout">
+     <layout class="QVBoxLayout" name="mainLayout">
       <item>
        <widget class="QWidget" name="mainBar" native="true">
         <layout class="QHBoxLayout" name="horizontalLayout_2">
+<!--         <item>-->
+<!--          <widget class="QPushButton" name="menuButton">-->
+<!--           <property name="text">-->
+<!--            <string>☰</string>-->
+<!--           </property>-->
+<!--          </widget>-->
+<!--         </item>-->
          <item>
           <widget class="QLineEdit" name="searchBox">
            <property name="placeholderText">
@@ -275,7 +302,7 @@
          <attribute name="title">
           <string>Tasks</string>
          </attribute>
-         <layout class="QVBoxLayout" name="verticalLayout_2">
+         <layout class="QVBoxLayout" name="tasksLayout">
           <item>
            <widget class="QLineEdit" name="tasksFilterBox">
             <property name="placeholderText">
@@ -327,7 +354,7 @@
          <attribute name="title">
           <string>Milestones</string>
          </attribute>
-         <layout class="QVBoxLayout" name="verticalLayout_3">
+         <layout class="QVBoxLayout" name="milestonesLayout">
           <item>
            <widget class="QLineEdit" name="milestonesFilterBox">
             <property name="placeholderText">
@@ -336,28 +363,52 @@
            </widget>
           </item>
           <item>
-           <widget class="QTableWidget" name="milestonesTable"/>
-          </item>
-          <item>
-           <layout class="QHBoxLayout" name="milestonesButtonsLayout">
+           <layout class="QHBoxLayout" name="milestonesContentLayout">
             <item>
-             <widget class="QPushButton" name="milestonesAddButton">
-              <property name="text">
-               <string>Add</string>
-              </property>
-             </widget>
+             <layout class="QVBoxLayout" name="milestonesTableLayout">
+              <item>
+               <widget class="QTableWidget" name="milestonesTable"/>
+              </item>
+              <item>
+               <layout class="QHBoxLayout" name="milestonesButtonsLayout">
+                <item>
+                 <widget class="QPushButton" name="milestonesAddButton">
+                  <property name="text">
+                   <string>Add</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QPushButton" name="milestonesUpdateButton">
+                  <property name="text">
+                   <string>Update</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QPushButton" name="milestonesDeleteButton">
+                  <property name="text">
+                   <string>Delete</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+             </layout>
             </item>
             <item>
-             <widget class="QPushButton" name="milestonesUpdateButton">
-              <property name="text">
-               <string>Update</string>
+             <widget class="QCalendarWidget" name="milestonesCalendar">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
               </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QPushButton" name="milestonesDeleteButton">
-              <property name="text">
-               <string>Delete</string>
+              <property name="minimumSize">
+               <size>
+                <width>300</width>
+                <height>200</height>
+               </size>
               </property>
              </widget>
             </item>
@@ -369,7 +420,7 @@
          <attribute name="title">
           <string>People</string>
          </attribute>
-         <layout class="QVBoxLayout" name="verticalLayout_4">
+         <layout class="QVBoxLayout" name="peopleLayout">
           <item>
            <widget class="QLineEdit" name="peopleFilterBox">
             <property name="placeholderText">
@@ -407,23 +458,17 @@
           </item>
          </layout>
         </widget>
-        <widget class="QWidget" name="ganttChartTab">
+        <widget class="QWidget" name="ganttTab">
          <attribute name="title">
           <string>Gantt Chart</string>
          </attribute>
-         <layout class="QVBoxLayout" name="ganttChartLayout">
-          <item>
-           <widget class="QWidget" name="ganttChartWidget" native="true"/>
-          </item>
-         </layout>
+         <layout class="QVBoxLayout" name="ganttChartLayout"/>
         </widget>
        </widget>
       </item>
      </layout>
     </item>
    </layout>
+   </widget>
   </widget>
- </widget>
- <resources/>
- <connections/>
 </ui>
