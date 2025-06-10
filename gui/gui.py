@@ -5,7 +5,8 @@ import sys
 from datetime import datetime
 
 import matplotlib.pyplot as plt
-from PyQt6.QtCore import QDate
+from PyQt6.QtCore import QDate, Qt
+from PyQt6.QtGui import QTextCharFormat, QColor
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QDialog, QFormLayout, QComboBox, QDialogButtonBox, QMessageBox,
                              QLineEdit, QTableWidget, QTableWidgetItem, QDateEdit, QFileDialog)
 from PyQt6.uic import loadUi
@@ -61,6 +62,7 @@ class ProjectManagementGUI(QMainWindow):
         self.peopleUpdateButton.clicked.connect(self.open_update_person_dialog)  # Update person button
         self.peopleDeleteButton.clicked.connect(self.delete_person)  # Delete person button
         self.peopleFilterBox.textChanged.connect(self.filter_people)  # Person filter input
+        self.milestonesCalendar.clicked.connect(self.show_milestone_details)
         # Initialize tables
         self.setup_tables()  # Configure table widgets
         # Initialize Gantt chart
@@ -235,6 +237,7 @@ class ProjectManagementGUI(QMainWindow):
                 # Populate table with milestone data
                 self.milestonesTable.setItem(row, 0, QTableWidgetItem(str(milestone.id)))
                 self.milestonesTable.setItem(row, 1, QTableWidgetItem(milestone.name))
+            self.refresh_milestones_calendar(filter_text)
             self.logger.info(f"Refreshed milestones table")
         except (sqlite3.Error, LookupError) as e:
             self.show_error(f"Error refreshing milestones: {e}")
@@ -504,6 +507,7 @@ class ProjectManagementGUI(QMainWindow):
                 )
                 self.refresh_tasks_table()  # Refresh tasks table
                 self.refresh_gantt_chart()  # Refresh Gantt chart
+                self.refresh_milestones_calendar()  # Refresh milestones calendar to update highlights
                 self.logger.info(f"Updated task ID: {task_id}")
         except (ValueError, sqlite3.Error, LookupError) as e:
             self.show_error(f"Error updating task: {e}")
@@ -799,6 +803,89 @@ class ProjectManagementGUI(QMainWindow):
         self.logger.error(message)
         QMessageBox.critical(self, "Error", str(message))  # Show error dialog
 
+    def refresh_milestones_calendar(self, filter_text=""):
+        """
+        Refresh the milestones calendar with the latest data, optionally filtered by name.
+
+        Highlights dates with milestones and adds tooltips with milestone names.
+
+        Args:
+            filter_text (str): Text to filter milestones by name (default: "").
+
+        Raises:
+            sqlite3.Error: If a database error occurs.
+            LookupError: If a milestone lookup fails.
+        """
+        try:
+            # Clear existing formats by applying a default QTextCharFormat
+            default_format = QTextCharFormat()
+            self.milestonesCalendar.setDateTextFormat(QDate(), default_format)
+
+            tasks = self.repository.get_all_tasks()
+            date_formats = {}
+            for task in tasks:
+                if task.milestone_id:
+                    milestone = self.repository.get_milestone(task.milestone_id)
+                    if filter_text.lower() not in milestone.name.lower():
+                        continue
+                    start_date = QDate.fromString(task.start_date, "yyyy-MM-dd")
+                    due_date = QDate.fromString(task.due_date, "yyyy-MM-dd")
+                    current_date = start_date
+                    while current_date <= due_date:
+                        format = QTextCharFormat()
+                        format.setBackground(QColor("#3498db"))
+                        format.setForeground(QColor("#ffffff"))
+                        format.setToolTip(f"Milestone: {milestone.name}\nTask: {task.title}")
+                        date_formats[current_date] = format
+                        current_date = current_date.addDays(1)
+
+            # Apply formats to calendar
+            for date, format in date_formats.items():
+                self.milestonesCalendar.setDateTextFormat(date, format)
+
+            self.logger.info("Refreshed milestones calendar")
+        except (sqlite3.Error, LookupError) as e:
+            self.show_error(f"Error refreshing milestones calendar: {e}")
+    def show_milestone_details(self, date):
+        """
+        Display details of milestones associated with the selected date in a dialog.
+
+        Args:
+            date (QDate): The date selected in the milestonesCalendar.
+
+        Raises:
+            sqlite3.Error: If a database error occurs.
+            LookupError: If a milestone lookup fails.
+        """
+        try:
+            selected_date = date.toString("yyyy-MM-dd")
+            tasks = self.repository.get_all_tasks()
+            milestones_on_date = []
+
+            # Find tasks with milestones that fall on the selected date
+            for task in tasks:
+                if task.milestone_id:
+                    task_start = QDate.fromString(task.start_date, "yyyy-MM-dd")
+                    task_due = QDate.fromString(task.due_date, "yyyy-MM-dd")
+                    if task_start <= date <= task_due:
+                        milestone = self.repository.get_milestone(task.milestone_id)
+                        milestones_on_date.append((milestone.name, task.title))
+
+            if not milestones_on_date:
+                QMessageBox.information(self, "Milestone Details", f"No milestones on {selected_date}")
+                return
+
+            # Format milestone details
+            details = f"Milestones on {selected_date}:\n\n"
+            for milestone_name, task_title in milestones_on_date:
+                details += f"Milestone: {milestone_name}\nAssociated Task: {task_title}\n\n"
+
+            # Show details in a dialog
+            QMessageBox.information(self, "Milestone Details", details)
+            self.logger.info(f"Displayed milestone details for date: {selected_date}")
+        except (sqlite3.Error, LookupError) as e:
+            self.show_error(f"Error displaying milestone details: {e}")
+
 
 def run_gui():
     """
@@ -810,3 +897,6 @@ def run_gui():
     window = ProjectManagementGUI()  # Create main window
     window.show()  # Show the window
     sys.exit(app.exec())  # Start event loop and exit with application status
+
+
+
